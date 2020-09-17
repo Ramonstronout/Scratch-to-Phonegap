@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "dinorun.prOgramOnster.edu.mit.scratch"
+        id          = "dinorun.programonster.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
@@ -13,8 +13,8 @@
         An app made using Scratch, GitHub, and PhoneGap.
     </description>
 
-    <author href="http://scratch.mit.edu/users/prOgramOnster" email="rnw@groevenbeek.nl">
-        prOgramOnster
+    <author href="http://scratch.mit.edu/users/programonster" email="rnw@groevenbeek.nl">
+        programonster
     </author>
 
 </widget>
